@@ -1,0 +1,85 @@
+Created by Wireshark 3.2.6 (v3.2.6-0-g4f9257fb8ccc)
+
+File
+
+Name:
+C:\Users\User\Documents\pcap.pcapng
+Length:
+4977 kB
+Hash (SHA256):
+28ed966f243cb3116aeb9e42921542c8b6e328d0edc7f952d9f94fa65c29860d
+Hash (RIPEMD160):
+8c4718e0b5176a5f0a1d061aaf3924b7135d887c
+Hash (SHA1):
+16634c5e63c22906a44c8c73f9cf986d50fcd1f1
+Format:
+Wireshark/... - pcapng
+Encapsulation:
+Ethernet
+
+Time
+
+First packet:
+2020-10-06 08:19:20
+Last packet:
+2020-10-06 08:19:57
+Elapsed:
+00:00:36
+
+Capture
+
+Hardware:
+Intel(R) Celeron(R) N4000 CPU @ 1.10GHz (with SSE4.2)
+OS:
+64-bit Windows 10 (2004), build 19041
+Application:
+Dumpcap (Wireshark) 3.2.7 (v3.2.7-0-gfb6522d84a3a)
+
+Interfaces
+
+Interface
+Dropped packets
+Capture filter
+Link type
+Packet size limit
+Wi-Fi
+0 (0.0%)
+none
+Ethernet
+262144 bytes
+
+Statistics
+
+Measurement
+Captured
+Displayed
+Marked
+Packets
+3433
+3433 (100.0%)
+—
+Time span, s
+36.236
+36.236
+—
+Average pps
+94.7
+94.7
+—
+Average packet size, B
+1416
+1416
+—
+Bytes
+4860425
+4860425 (100.0%)
+0
+Average bytes/s
+134 k
+134 k
+—
+Average bits/s
+1073 k
+1073 k
+—
+
